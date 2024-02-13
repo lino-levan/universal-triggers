@@ -16,7 +16,7 @@ An easy way to install the code is to create a fresh anaconda environment:
 
 ```
 conda create -n triggers python=3.6
-source activate triggers
+conda activate triggers
 pip install -r requirements.txt
 ```
 Now you should be ready to go!
